@@ -5,7 +5,6 @@ import 'package:provider/provider.dart';
 import 'package:register_tunaiku/models/register.dart';
 import 'package:register_tunaiku/provider/register_provider.dart';
 import 'package:register_tunaiku/ui/widgets/form_field_custome.dart';
-import 'package:percent_indicator/percent_indicator.dart';
 
 class PersonalDataPage extends StatefulWidget {
     String titlePage;

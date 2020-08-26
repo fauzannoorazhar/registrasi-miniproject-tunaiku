@@ -30,12 +30,6 @@ class _RegisterPageState extends State<RegisterPage> {
                 appBar: AppBar(
                     title: Text('Registration Form'),
                     centerTitle: true,
-                    // actions: <Widget>[
-                    //     Padding(
-                    //         padding: EdgeInsets.fromLTRB(0, 20, 15, 0),
-                    //         child: Text('${indexPage + 1}/3'),
-                    //     )
-                    // ],
                 ),
                 body: pageView(),
             )
