@@ -1,0 +1,1 @@
+const String apiProvince = 'https://dev.farizdotid.com/api/daerahindonesia/provinsi';
